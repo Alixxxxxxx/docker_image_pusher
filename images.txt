@@ -4,3 +4,4 @@ k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 --platform=linux/arm64 xiaoyaliu/alist
 gitlab/gitlab-ce:17.1.1-ce.0
 mongo:7.0-rc
+pragkent/alidns-webhook:0.1.1
