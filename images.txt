@@ -1,2 +1,3 @@
 emqx:5.7.1
 louislam/uptime-kuma:1.23.13
+gitlab/gitlab-ce:16.11.0-ce.0
