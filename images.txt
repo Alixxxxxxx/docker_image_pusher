@@ -1,7 +1,2 @@
-#支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-#支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
-gitlab/gitlab-ce:17.1.1-ce.0
-mongo:7.0-rc
-pragkent/alidns-webhook:0.1.1
+emqx:5.7.1
+louislam/uptime-kuma:1.23.13
