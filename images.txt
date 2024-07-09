@@ -1,1 +1,2 @@
-nginx:latest
+redis:latest
+islandora/activemq:3.1.5
