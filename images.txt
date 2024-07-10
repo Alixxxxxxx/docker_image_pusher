@@ -1,1 +1,1 @@
-emqx/emqx-operator-controller:2.2.23
+redis/redisinsight:latest
