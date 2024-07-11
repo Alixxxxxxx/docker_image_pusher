@@ -1,2 +1,1 @@
-redis/redisinsight:latest
-bitnami/mongodb:7.0.12-debian-12-r0
+bitnami/kubectl:1.30.2-debian-12-r0
