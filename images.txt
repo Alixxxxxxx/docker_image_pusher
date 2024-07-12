@@ -1,3 +1,4 @@
 bitnami/attu:2.4.3-debian-12-r0
 bitnami/milvus:2.4.5-debian-12-r5
 bitnami/pymilvus:2.4.4-debian-12-r1
+milvusdb/milvus-config-tool:v0.1.1
