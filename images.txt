@@ -1,2 +1,2 @@
-mongodb-exporter:0.40.0-debian-12-r30
-nginx:1.27.0-debian-12-r2
+bitnami/mongodb-exporter:0.40.0-debian-12-r30
+bitnami/nginx:1.27.0-debian-12-r2
