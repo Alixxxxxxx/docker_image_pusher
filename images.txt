@@ -1,2 +1,2 @@
-docker.io/mongodb-exporter:0.40.0-debian-12-r30
-docker.io/nginx:1.27.0-debian-12-r2
+mongodb-exporter:0.40.0-debian-12-r30
+nginx:1.27.0-debian-12-r2
