@@ -1,1 +1,2 @@
 apachepulsar/pulsar:2.8.2
+bitnami/os-shell:12-debian-12-r24
