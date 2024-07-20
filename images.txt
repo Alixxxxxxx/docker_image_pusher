@@ -1,2 +1,1 @@
-golang:1.12
-alpine:3.20
+docker.io/library/openjdk:8-jdk-alpine
