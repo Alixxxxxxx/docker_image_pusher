@@ -1,2 +1,1 @@
-bitnami/openldap:2.6.8
-eryajf/go-ldap-admin:2024-07-30_00-40
+selenium/standalone-chrome:127.0-chromedriver-127.0
