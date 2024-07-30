@@ -1,1 +1,1 @@
-bitnami/openldap:2.5.18
+bitnami/openldap:2.6.8
