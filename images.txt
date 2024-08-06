@@ -1,2 +1,1 @@
-hashicorp/vault-k8s:1.4.2
-hashicorp/vault:1.17.2
+snowdreamtech/frps:0.59
