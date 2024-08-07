@@ -1,1 +1,1 @@
-snowdreamtech/frps:0.59
+gitlab/gitlab-runner:latest
