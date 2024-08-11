@@ -1,2 +1,9 @@
-docker.io/library/openjdk:8-jdk-alpine
-docker.io/library/node:16-alpine
+goharbor/harbor-core:v2.11.0
+goharbor/harbor-db:v2.11.0
+goharbor/harbor-jobservice:v2.11.0
+goharbor/redis-photon:v2.11.0
+goharbor/registry-photon:v2.11.0
+goharbor/trivy-adapter-photon:v2.11.0
+docker.elastic.co/elasticsearch/elasticsearch-oss:7.4.2
+ghcr.io/apache/skywalking/oap:latest
+ghcr.io/apache/skywalking/ui:latest
