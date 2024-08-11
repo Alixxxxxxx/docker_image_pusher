@@ -1,3 +1,2 @@
-docker.elastic.co/elasticsearch/elasticsearch-oss:7.4.2
-ghcr.io/apache/skywalking/oap:latest
-ghcr.io/apache/skywalking/ui:latest
+islandora/activemq:3.1.5
+redis:latest
