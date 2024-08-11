@@ -1,1 +1,2 @@
-gitlab/gitlab-runner:latest
+docker.io/library/openjdk:8-jdk-alpine
+docker.io/library/node:16-alpine
