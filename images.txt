@@ -1,1 +1,1 @@
-sosedoff/pgweb:latest
+ghcr.io/coder/coder:2.14.0
