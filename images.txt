@@ -1,1 +1,1 @@
-ghcr.io/coder/coder:v1.0.1
+codercom/code-server:4.91.0
