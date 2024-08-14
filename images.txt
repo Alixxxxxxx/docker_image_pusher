@@ -1,3 +1,1 @@
-bitnami/postgresql:16.3.0-debian-12-r23
-bitnami/os-shell:12-debian-12-r26
-bitnami/postgres-exporter:0.15.0-debian-12-r38
+sosedoff/pgweb:latest
