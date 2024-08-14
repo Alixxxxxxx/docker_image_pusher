@@ -1,1 +1,1 @@
-ghcr.io/coder/coder:v2.14.0
+ubuntu:22.20
