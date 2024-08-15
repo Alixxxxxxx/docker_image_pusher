@@ -1,1 +1,1 @@
-ghcr.io/coder/coder:v2.13.4
+codercom/enterprise-base:ubuntu
