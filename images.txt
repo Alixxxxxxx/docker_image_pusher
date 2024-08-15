@@ -1,1 +1,1 @@
-ghcr.io/coder/coder:v2.14.1
+ghcr.io/coder/coder:v2.13.4
