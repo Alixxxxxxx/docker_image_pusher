@@ -1,6 +1,1 @@
-langgenius/dify-api:0.7.0
-langgenius/dify-api:0.7.0
-docker.io/bitnami/postgresql:16.3.0-debian-12-r4
-docker.io/bitnami/redis:7.2.4-debian-12-r13
-langgenius/dify-sandbox:0.2.0
-langgenius/dify-web:0.7.0
+nginx/nginx-ingress:3.6.1
