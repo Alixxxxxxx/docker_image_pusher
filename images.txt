@@ -1,1 +1,1 @@
-gcr.io/google-containers/echoserver:latest
+hashicorp/http-echo:latest
