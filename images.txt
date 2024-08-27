@@ -1,3 +1,5 @@
-hoppscotch/hoppscotch-frontend:2024.7.1
-hoppscotch/hoppscotch-admin:2024.7.1
-hoppscotch/hoppscotch-backend:2024.7.1
+gitea/gitea:1.22.1-rootless
+gitea/gitea:1.22.1
+bitnami/pgpool:4.5.2-debian-12-r2
+bitnami/postgresql-repmgr:16.3.0-debian-12-r15
+bitnami/redis-cluster:7.2.5-debian-12-r2
