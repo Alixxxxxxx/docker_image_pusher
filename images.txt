@@ -1,5 +1,4 @@
-m1k1o/neko:google-chrome
-m1k1o/neko:firefox
+m1k1o/neko:ungoogled-chromium
 langgenius/dify-api:0.8.3
 langgenius/dify-web:0.8.3
 
