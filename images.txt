@@ -1,3 +1,4 @@
+m1k1o/neko:google-chrome
 langgenius/dify-api:0.8.3
 langgenius/dify-web:0.8.3
-m1k1o/neko:v3-chromium
+
